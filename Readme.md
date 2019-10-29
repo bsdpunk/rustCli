@@ -1,0 +1,3 @@
+# RUST CLI
+
+Just practice
